@@ -18,5 +18,13 @@
     <ClCompile Include="App_PR_Classifier_Cluster.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="BayesianDecision.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BayesianDecision.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
